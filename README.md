@@ -3,3 +3,4 @@
 2. Додано "HW2_Списки_та_словники.ipynb"
 3. Додано "HW3_Умовні_конструкції_(if_elif_else).ipynb"
 4. Додано "HW4_Цикл_for.ipynb"
+5. Додано "HW5_Цикл_while_List_comprehensions.ipynb"
