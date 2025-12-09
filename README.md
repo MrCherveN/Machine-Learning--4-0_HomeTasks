@@ -5,3 +5,4 @@
 4. Додано "HW4_Цикл_for.ipynb"
 5. Додано "HW5_Цикл_while_List_comprehensions.ipynb"
 6. Додано "HW6_Функції.ipynb"
+7. Додано "HW7_Numpy.ipynb"
