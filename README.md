@@ -9,3 +9,4 @@
 8. Додано "HW8_Pandas.ipynb"
 9. Додано "HW9_Data_Visualization.ipynb"
 10. Додано "HW_1_1_Основи_статистики.ipynb"
+11. Додано "HW_1_2_Credit_EDA.ipynb"
