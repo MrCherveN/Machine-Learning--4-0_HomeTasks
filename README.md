@@ -10,3 +10,4 @@
 9. Додано "HW9_Data_Visualization.ipynb"
 10. Додано "HW_1_1_Основи_статистики.ipynb"
 11. Додано "HW_1_2_Credit_EDA.ipynb"
+12. Додано "HW_2_1_Тестування_стат_гіпотез.ipynb"
