@@ -137,6 +137,7 @@ def preprocess_new_data(
     """
     Inference pipeline: applies pre-fitted processors to new data (e.g., test.csv).
     """
+    df = df.copy()
     # 1. Impute
     df = apply_imputation(df, imputer_num, imputer_cat, numeric_cols, categorical_cols)
     
@@ -148,4 +149,5 @@ def preprocess_new_data(
     if scaler is not None:
         df = apply_scaling(df, scaler, numeric_cols)
         
+
     return df[numeric_cols + encoded_cols]
