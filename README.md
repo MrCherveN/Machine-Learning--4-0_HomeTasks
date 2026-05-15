@@ -27,3 +27,4 @@
 26. Додано "HW_2_5_Time_Series_Analysis.ipynb"
 27. Додано "HW_Алгоритми_кластеризації.ipynb"
 28. Додано "HW_Методи_пониження_розмірності.ipynb"
+29. Додано "HW_NLP_Classification.ipynb"
