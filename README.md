@@ -30,3 +30,4 @@
 29. Додано "HW_NLP_Classification.ipynb"
 30. Додано "Вступ_до_нейронних_мереж.ipynb"
 31. Додано "LSTM_для_прогнозування_часових_рядів.ipynb"
+32. Додано "Computer_Vision_with_PyTorch_Excercises.ipynb"
